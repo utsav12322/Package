@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'your-username/my-social-posts',
+        'name' => 'saurabhinfosys/my-social-posts',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => null,
@@ -100,7 +100,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'your-username/my-social-posts' => array(
+        'saurabhinfosys/my-social-posts' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'reference' => null,
